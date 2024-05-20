@@ -58,7 +58,7 @@ body {
 }
 
 .main-anime-image {
-    background:  url(anime-cover.png); 
+    background:  url(images/anime-cover.png); 
     background-size: cover;
     background-position: left;
     background-repeat: no-repeat;
@@ -143,7 +143,7 @@ button:hover {
 
 .profile-image {
     margin-top: -10px;
-    background:  url(profile-pic.jpeg); 
+    background:  url(images/profile-pic.jpeg); 
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -153,7 +153,7 @@ button:hover {
 }
 
 .aot-image {
-    background:  url(aot.png); 
+    background:  url(images/aot.png); 
     background-size: cover;
     background-position: left;
     background-repeat: no-repeat;
@@ -161,7 +161,7 @@ button:hover {
 }
 
 .jjk-image {
-    background:  url(jjk.png); 
+    background:  url(images/jjk.png); 
     background-size: cover;
     background-position: left;
     background-repeat: no-repeat;
@@ -169,7 +169,7 @@ button:hover {
 }
 
 .sxf-image {
-    background:  url(sxf.png); 
+    background:  url(images/sxf.png); 
     background-size: cover;
     background-position: left;
     background-repeat: no-repeat;
@@ -177,7 +177,7 @@ button:hover {
 }
 
 .mha-image {
-    background:  url(mha.png); 
+    background:  url(images/mha.png); 
     background-size: cover;
     background-position: left;
     background-repeat: no-repeat;
@@ -185,7 +185,7 @@ button:hover {
 }
 
 .op-image {
-    background:  url(op.png); 
+    background:  url(images/op.png); 
     background-size: cover;
     background-position: left;
     background-repeat: no-repeat;
@@ -193,7 +193,7 @@ button:hover {
 }
 
 .fire-force-image { 
-    background:  url(fire-force.jpeg); 
+    background:  url(images/fire-force.jpeg); 
     background-size: cover;
     background-position: left;
     background-repeat: no-repeat;
@@ -201,7 +201,7 @@ button:hover {
 }
 
 .promised-neverland-image {
-    background:  url(promised-neverland.jpeg); 
+    background:  url(images/promised-neverland.jpeg); 
     background-size: cover;
     background-position: left;
     background-repeat: no-repeat;
@@ -209,7 +209,7 @@ button:hover {
 }
 
 .akuma-kan-image {
-    background:  url(akuma-kan.png); 
+    background:  url(images/akuma-kan.png); 
     background-size: cover;
     background-position: left;
     background-repeat: no-repeat;
@@ -217,7 +217,7 @@ button:hover {
 }
 
 .chainsaw-man-image {
-    background:  url(chainsaw-man.png); 
+    background:  url(images/chainsaw-man.png); 
     background-size: cover;
     background-position: left;
     background-repeat: no-repeat;
@@ -225,7 +225,7 @@ button:hover {
 }
 
 .dbz-image {
-    background:  url(dbz.png); 
+    background:  url(images/dbz.png); 
     background-size: cover;
     background-position: left;
     background-repeat: no-repeat;
@@ -233,7 +233,7 @@ button:hover {
 }
 
 .death-note-image {
-    background:  url(death-note.png); 
+    background:  url(images/death-note.png); 
     background-size: cover;
     background-position: left;
     background-repeat: no-repeat;
@@ -241,7 +241,7 @@ button:hover {
 }
 
 .opm-image {
-    background:  url(one-punch-man.png); 
+    background:  url(images/one-punch-man.png); 
     background-size: cover;
     background-position: left;
     background-repeat: no-repeat;
@@ -249,7 +249,7 @@ button:hover {
 }
 
 .kingdom-image {
-    background:  url(kingdom.png); 
+    background:  url(images/kingdom.png); 
     background-size: cover;
     background-position: left;
     background-repeat: no-repeat;
@@ -257,7 +257,7 @@ button:hover {
 }
 
 .naruto-image {
-    background:  url(naruto.png); 
+    background:  url(images/naruto.png); 
     background-size: cover;
     background-position: left;
     background-repeat: no-repeat;
@@ -265,7 +265,7 @@ button:hover {
 }
 
 .tokyo-ghoul-image {
-    background:  url(tokyo-ghoul.jpeg); 
+    background:  url(images/tokyo-ghoul.jpeg); 
     background-size: cover;
     background-position: left;
     background-repeat: no-repeat;
@@ -273,7 +273,7 @@ button:hover {
 }
 
 .hxh-image {
-    background:  url(hxh.png); 
+    background:  url(images/hxh.png); 
     background-size: cover;
     background-position: left;
     background-repeat: no-repeat;
@@ -281,7 +281,7 @@ button:hover {
 }
 
 .dororo-image {
-    background:  url(dororo.jpeg); 
+    background:  url(images/dororo.jpeg); 
     background-size: cover;
     background-position: left;
     background-repeat: no-repeat;
