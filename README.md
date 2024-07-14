@@ -1,5 +1,6 @@
 # MyAnimeList
 
+_Date: May 2024_
 ## Description
 
 This project was part a personal project of mine to redesign the [MyAnimeList](https://myanimelist.net/) website. 
